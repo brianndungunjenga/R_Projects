@@ -1,0 +1,27 @@
+{
+    "id": "CD82A429",
+    "path": "L:/R_projects/water_availability_sierra_leone/water_avail_sierra.R",
+    "project_path": "water_avail_sierra.R",
+    "type": "r_source",
+    "hash": "2555291744",
+    "contents": "",
+    "dirty": false,
+    "created": 1633278565695.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "109,54",
+        "scrollLine": "96"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1633347053,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1633347053675,
+    "read_only": false,
+    "read_only_alternatives": []
+}
